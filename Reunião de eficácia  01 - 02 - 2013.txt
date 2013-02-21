@@ -9,3 +9,5 @@ e a aprovação do cliente seria depois de analisado todos os requisitos. Será dis
 
 participantes:
 fernando, clovis e marcus
+
+teste
