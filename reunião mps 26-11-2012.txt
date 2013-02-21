@@ -1,0 +1,59 @@
+Denifir Política para todos os novos processos;
+
+Garantia da Qualidade:
+Proposta: Fernando faz QA e Samuel faz QA do QA
+
+Criar um projeto organizacional (anual ou semestral) de melhoria de processos para fazer portifolio e qa do qa
+deve ter: 
+	reunião de eficácia;
+	qa do qa - por exemplo uma vez por mes;
+	Equipe técnica: Samuel - qa do qa/Gerente de Portifolio - pode ser mais de um;
+	GPO - Pode ser reativo ou 1 vez por mes
+	
+	
+Definir habilidades e competencias e infraestrutura para: QA, GPO; GCO; GMED
+
+QA: Deve verificar o conteudo dos documentos. Ex: todos os campos da estória foram preenchidos; todas as atividades tem responsável; 
+Verificar dentro dos artefatos mais importantes as informações mais importantes que devem estar preenchidas corretamente;
+
+Escalonamento dos problemas do QA - idem GPR. Identificar no checklist se foi escalonado ou não;
+
+Colocar no checklist mais de uma ação corretiva e identificar se o problema foi resolvido ou não (status)
+
+Colocar qual processo ref. a não conformidade. Para atender RAP4;
+
+Colocar QA na reunião de kick off e deve registrar o comprometimento. Precisa ser acompanhado;
+
+Problemas:
+QA da gerencia de requisitos quando fernando for GR deve ser executado por samuel ou clovis;
+
+Medição
+
+Fazer Plano de Medição (para cada medida como ela é coletada, armazenada, analisada)
+	Fazer reunião da diretoria para definir as metas estratégicas (apenas ata) ou planejamento estratégico;
+	Para cada objetivo que a fábrica vai atender: descrever objetivos de medição. Para cada um deles descrever um conjunto de medidas;
+
+Plano de Medição - pode estar na intranet/processo
+
+Discutir nas reuniões de eficácia as medidas coletadas;
+
+Colocar a planilha de medição e processo (PDS - Khor) no plano de comunicação e dados;
+
+Portifólio
+
+Definir os Gerentes: Clovis, Samuel, Fernando e Marcus participa das reuniões;
+
+
+Definir critérios para o rank de projetos;
+
+
+
+Medidas devem ser coletadas no mesmo momento
+Ligar medida a uma atividade. Ex: Numero de requisitos aprovados devem ser coletado na atividade de validação de requisitos
+Caracterizar os projetos (por produto desenvolvido, por tecnologia, perfil da equipe, )
+Medir produto e processo
+Identificar a versão do processo
+MedPlan e Metrix - Coppe - Shinaider
+Coletar qualidade e preço
+Taxa de alteração de requisitos (toda vez que uma mudança for aceita)
+Utilizar mecanismos para garantir que a medida tenha cido coletada quando a atividade é concluída;

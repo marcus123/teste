@@ -1,0 +1,11 @@
+inicio 15:40 e termino as 17:35
+
+Sobre o processo de mudança, ficou resolvido que seria verificado a ordem das atividades.
+Clovis questionou a fase de elaboração, achando que a aprovação dos requisitos críticos poderia ser 
+na fase de construção tbm. Fernando não concorda e diz que a fase não muda em nada e poderá ser trabalhada as 2 fases paralelamente.
+
+Sobre as estórias, foi unanime que as regras estão faltando ser descritas mais completas. Clovis e marcus sugeriram que a analise poderia ser na fase de iniciação
+e a aprovação do cliente seria depois de analisado todos os requisitos. Será discutido em outra reunião.
+
+participantes:
+fernando, clovis e marcus
