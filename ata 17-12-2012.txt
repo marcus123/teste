@@ -1,0 +1,20 @@
+Definir critérios para montar a lista de itens de configuração - iniciar verificando o plano de comunicação e dados;
+montar a lista; O processo deve estar na lista;
+alguns documentos vão estar fora da baseline do projeto: ranking dos projetos, qa do qa, qa do gpp... estes documentos devem estar no projeto organizacional;
+planejar as baselines (definir em qual marco é gerado e quais itens de configuração fazem parte)
+fazer tabela mostrando os itens de configuração x baselines x quando é congelado, versionado e armazenado;
+Definir o CCC - comite de controle de configuração. Definir os níveis: ex.: 
+	nível 1 - não impacta em escopo, custo e tempo GP aprova
+	2 - GP + GRE - quando impacta no escopo;
+	3 - GP + GPP + GRE + Cliente;
+Definir o que é mudança que não precisa de SM. Ex.: correção ortográfica, mudança de email, telefone, endereço. Deve-se criar uma nova versão e registrar no comentário do SVN. Se precisar de SM então registrar o ID da SM no comentário;
+Processo de mudança dos itens de configuração - avaliar mudança atual e verificar se atende GCO5;
+No processo deve estar definido o sistema de GCO;
+Ver ferramentas de integração (ant, maven, hudson, jakins);
+Definir regra de nomenclatura para todos os itens de configuração. Para as baselines, tags e branchs também;
+Definir a estrutura de diretórios (listar os IC que serão armazenados em cada pasta);
+Estratégia de ramificação;
+
+Medição - Artefatos: Plano de medição, planilha de coleta de dados, status report e ata de reunião com a gerencia senior;
+No plano separar o que é do projeto e o que é organizacional;
+
